@@ -1,0 +1,21 @@
+{
+    "name": "buns-theme",
+    "displayName": "buns-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Buns Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Buns Theme-color-theme.json"
+            }
+        ]
+    }
+}
